@@ -1,18 +1,20 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 2012 for Windows Desktop
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{E331086C-81DD-4C82-9F0D-27C95AB33259}"
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{FB13C5F6-C12D-4E0A-B6C4-AB6A43DB0EB8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Win32 = Debug|Win32
-		Release|Win32 = Release|Win32
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E331086C-81DD-4C82-9F0D-27C95AB33259}.Debug|Win32.ActiveCfg = Debug|Win32
-		{E331086C-81DD-4C82-9F0D-27C95AB33259}.Debug|Win32.Build.0 = Debug|Win32
-		{E331086C-81DD-4C82-9F0D-27C95AB33259}.Release|Win32.ActiveCfg = Release|Win32
-		{E331086C-81DD-4C82-9F0D-27C95AB33259}.Release|Win32.Build.0 = Release|Win32
+		{FB13C5F6-C12D-4E0A-B6C4-AB6A43DB0EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB13C5F6-C12D-4E0A-B6C4-AB6A43DB0EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB13C5F6-C12D-4E0A-B6C4-AB6A43DB0EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB13C5F6-C12D-4E0A-B6C4-AB6A43DB0EB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
